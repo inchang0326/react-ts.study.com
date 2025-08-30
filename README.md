@@ -1,11 +1,12 @@
-# React + TypeScript + Vite
+# React.js + TypeScript on Vite
 
-This reposiotry collect study samples all about React.js + TypeScript on Vite  
-references
+This reposiotry collect study samples all about React.js + TypeScript on Vite
+
+[References]
 
 - <원쌤의 리액트 퀵스타트 with 타입스크립트>
 - <모던 리액트 완벽 입문>
-- Perflexiry.ai assistance
+- Perflexiry.ai assistance&advice
 
 ## Contents
 
