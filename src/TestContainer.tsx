@@ -55,7 +55,7 @@ const TestContainer = () => {
   // withLogging((a: number, b: number) => a + b)(1, 2);
   return (
     <div>
-      <ReactQueryTestContainer></ReactQueryTestContainer>
+      <ParentChildrenTest></ParentChildrenTest>
     </div>
   );
 };
