@@ -97,6 +97,11 @@ Plus. Free Hosting
 Plus. Storybook
 - provides isolated component info on web(similar to API docs but passive..)
 
+Plus. PWA란?
+- Web(정적 웹) > Native App > Web-app(동적 웹) > Hibrid-app(Web-view based), SPA 등 > PWA(Progressive Web App)으로 발전해 왔으며,
+- Web의 배포와 링크 등 강점을 갖고, Native App의 설치, 오프라인/불안정 네트워크에서의 신뢰, PUSH 알림 등 강점까지 내포하는 Native App 같은 Web을 목표함
+- 구현을 위해선 Service Worker와 Web App Manifest, HTTPS(TLS) 사용이 필수이며, 그 외 React.js / Vue.js 등 프론트엔드 기술엔 제약이 없음
+
 *More driven by AI advice.
 - React Query: Powerful HTTP tool(fetch, Axios) wrapping library handling on cache, synchronization, loading, error, etc ..
 - Recoil open module
