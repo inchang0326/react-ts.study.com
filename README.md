@@ -99,7 +99,10 @@ Plus. Storybook
 
 *More driven by AI advice.
 - React Query: Powerful HTTP tool(fetch, Axios) wrapping library handling on cache, synchronization, loading, error, etc ..
-- Recoil
+- Recoil open module
+   - Atom(store)
+   - useReocilState, .. (setter)
+   - Selector(processor&getter + setter)
 - more about TypeScript
 - TDD
 ```
